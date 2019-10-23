@@ -1,0 +1,1 @@
+/usr/bin/c++   -o3 -g  -rdynamic CMakeFiles/mandlebrot_pthread.dir/src/main.cpp.o CMakeFiles/mandlebrot_pthread.dir/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/utils/timer/src/timer.cpp.o  -o ../bin/mandlebrot_pthread -lpthread -lSM -lICE -lX11 -lXext 

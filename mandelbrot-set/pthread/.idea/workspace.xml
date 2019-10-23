@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mandlebrot_pthread" targetName="mandlebrot_pthread" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d081965-64b8-468b-b043-cf3378bd8be4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/even-odd-sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/bin/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/bin/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/bin/odd-even-sort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/even-odd-sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake-build-debug/even-odd-sort.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/even-odd-sort.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/include/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/include/mpi_odd_even_sort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/include/pthread_odd_even_sort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/include/runner.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/launcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/odd-even-sort.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/odd_even_sort.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/src/mpi_odd_even_sort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/src/pthread_odd_even_sort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/src/runner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/utils/error/errors.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/utils/log/include/logs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/utils/log/src/logs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/utils/timer/include/timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1/utils/timer/src/timer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../launcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/bin/mandlebrot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/bin/mandlebrot.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/include/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/include/mpi_mandlebrot.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/mandlebrot.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mpi/src/mpi_mandlebrot.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/bin/mandlebrot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/bin/mandlebrot.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/include/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pthread/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/error/errors.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/log/include/logs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/log/src/logs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/timer/include/timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/timer/src/timer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/x11-helpers.h" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../utils/x11-helpers.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mandlebrot_pthread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pthread" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="mandlebrot_pthread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pthread" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pthread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mandlebrot_pthread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pthread" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pthread" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mandlebrot_pthread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pthread" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="pthread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../utils/x11-helpers.h" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mandlebrot_pthread" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mandlebrot_pthread" TARGET_NAME="mandlebrot_pthread" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mandlebrot_pthread" RUN_TARGET_NAME="mandlebrot_pthread">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d081965-64b8-468b-b043-cf3378bd8be4" name="Default Changelist" comment="" />
+      <created>1571808305792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571808305792</updated>
+      <workItem from="1571808308693" duration="408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../utils/x11-helpers.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

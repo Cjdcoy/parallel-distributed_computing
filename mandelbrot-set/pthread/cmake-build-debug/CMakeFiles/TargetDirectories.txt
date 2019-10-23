@@ -1,0 +1,3 @@
+/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/pthread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/pthread/cmake-build-debug/CMakeFiles/mandlebrot_pthread.dir
+/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/pthread/cmake-build-debug/CMakeFiles/edit_cache.dir

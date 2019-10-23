@@ -1,0 +1,812 @@
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d95f1/fast 
+/usr/bin/make -f CMakeFiles/cmTC_d95f1.dir/build.make CMakeFiles/cmTC_d95f1.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d95f1.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_d95f1.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_d95f1
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d95f1.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_d95f1.dir/CheckIncludeFile.c.o  -o cmTC_d95f1 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_232bd/fast 
+/usr/bin/make -f CMakeFiles/cmTC_232bd.dir/build.make CMakeFiles/cmTC_232bd.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_232bd.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_232bd.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_232bd
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_232bd.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_232bd.dir/CheckFunctionExists.c.o  -o cmTC_232bd -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0b867/fast 
+/usr/bin/make -f CMakeFiles/cmTC_0b867.dir/build.make CMakeFiles/cmTC_0b867.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b867.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_0b867.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0b867
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0b867.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_0b867.dir/CheckFunctionExists.c.o  -o cmTC_0b867 /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_19be7/fast 
+/usr/bin/make -f CMakeFiles/cmTC_19be7.dir/build.make CMakeFiles/cmTC_19be7.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_19be7.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_19be7.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_19be7
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19be7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_19be7.dir/CheckFunctionExists.c.o  -o cmTC_19be7 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03ece/fast 
+/usr/bin/make -f CMakeFiles/cmTC_03ece.dir/build.make CMakeFiles/cmTC_03ece.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_03ece.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_03ece.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_03ece
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03ece.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_03ece.dir/CheckFunctionExists.c.o  -o cmTC_03ece 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7153c/fast 
+/usr/bin/make -f CMakeFiles/cmTC_7153c.dir/build.make CMakeFiles/cmTC_7153c.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7153c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_7153c.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7153c
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7153c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_7153c.dir/CheckFunctionExists.c.o  -o cmTC_7153c 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b7dd4/fast 
+/usr/bin/make -f CMakeFiles/cmTC_b7dd4.dir/build.make CMakeFiles/cmTC_b7dd4.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7dd4.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_b7dd4.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b7dd4
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7dd4.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_b7dd4.dir/CheckFunctionExists.c.o  -o cmTC_b7dd4 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a7b9a/fast 
+/usr/bin/make -f CMakeFiles/cmTC_a7b9a.dir/build.make CMakeFiles/cmTC_a7b9a.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a7b9a.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_a7b9a.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a7b9a
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a7b9a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_a7b9a.dir/CheckFunctionExists.c.o  -o cmTC_a7b9a -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/pthread/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e0859/fast 
+/usr/bin/make -f CMakeFiles/cmTC_e0859.dir/build.make CMakeFiles/cmTC_e0859.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e0859.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e0859.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_e0859
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0859.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e0859.dir/CheckIncludeFile.c.o  -o cmTC_e0859 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_99231/fast 
+/usr/bin/make -f CMakeFiles/cmTC_99231.dir/build.make CMakeFiles/cmTC_99231.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_99231.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_99231.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_99231
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99231.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_99231.dir/CheckFunctionExists.c.o  -o cmTC_99231 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_72ef9/fast 
+/usr/bin/make -f CMakeFiles/cmTC_72ef9.dir/build.make CMakeFiles/cmTC_72ef9.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_72ef9.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_72ef9.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_72ef9
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_72ef9.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_72ef9.dir/CheckFunctionExists.c.o  -o cmTC_72ef9 /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3c31b/fast 
+/usr/bin/make -f CMakeFiles/cmTC_3c31b.dir/build.make CMakeFiles/cmTC_3c31b.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3c31b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_3c31b.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3c31b
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3c31b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_3c31b.dir/CheckFunctionExists.c.o  -o cmTC_3c31b 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9051c/fast 
+/usr/bin/make -f CMakeFiles/cmTC_9051c.dir/build.make CMakeFiles/cmTC_9051c.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9051c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_9051c.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_9051c
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9051c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_9051c.dir/CheckFunctionExists.c.o  -o cmTC_9051c 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cc390/fast 
+/usr/bin/make -f CMakeFiles/cmTC_cc390.dir/build.make CMakeFiles/cmTC_cc390.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cc390.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_cc390.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cc390
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cc390.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_cc390.dir/CheckFunctionExists.c.o  -o cmTC_cc390 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_35dbf/fast 
+/usr/bin/make -f CMakeFiles/cmTC_35dbf.dir/build.make CMakeFiles/cmTC_35dbf.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_35dbf.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_35dbf.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_35dbf
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35dbf.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_35dbf.dir/CheckFunctionExists.c.o  -o cmTC_35dbf 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bc1a0/fast 
+/usr/bin/make -f CMakeFiles/cmTC_bc1a0.dir/build.make CMakeFiles/cmTC_bc1a0.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bc1a0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_bc1a0.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_bc1a0
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bc1a0.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_bc1a0.dir/CheckFunctionExists.c.o  -o cmTC_bc1a0 -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_48d60/fast && /usr/bin/make -f CMakeFiles/cmTC_48d60.dir/build.make CMakeFiles/cmTC_48d60.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48d60.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_48d60.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_48d60
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48d60.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_48d60.dir/CheckFunctionExists.c.o  -o cmTC_48d60 /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_24a00/fast && /usr/bin/make -f CMakeFiles/cmTC_24a00.dir/build.make CMakeFiles/cmTC_24a00.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_24a00.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_24a00.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_24a00
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_24a00.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_24a00.dir/CheckFunctionExists.c.o  -o cmTC_24a00 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a391f/fast && /usr/bin/make -f CMakeFiles/cmTC_a391f.dir/build.make CMakeFiles/cmTC_a391f.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a391f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_a391f.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a391f
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a391f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_a391f.dir/CheckFunctionExists.c.o  -o cmTC_a391f 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f5711/fast && /usr/bin/make -f CMakeFiles/cmTC_f5711.dir/build.make CMakeFiles/cmTC_f5711.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f5711.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_f5711.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f5711
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f5711.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_f5711.dir/CheckFunctionExists.c.o  -o cmTC_f5711 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_87809/fast && /usr/bin/make -f CMakeFiles/cmTC_87809.dir/build.make CMakeFiles/cmTC_87809.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_87809.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_87809.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_87809
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87809.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_87809.dir/CheckFunctionExists.c.o  -o cmTC_87809 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ebd3a/fast && /usr/bin/make -f CMakeFiles/cmTC_ebd3a.dir/build.make CMakeFiles/cmTC_ebd3a.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ebd3a.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_ebd3a.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ebd3a
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ebd3a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_ebd3a.dir/CheckFunctionExists.c.o  -o cmTC_ebd3a -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_84a51/fast 
+/usr/bin/make -f CMakeFiles/cmTC_84a51.dir/build.make CMakeFiles/cmTC_84a51.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_84a51.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_84a51.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_84a51
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84a51.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_84a51.dir/CheckFunctionExists.c.o  -o cmTC_84a51 /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d8111/fast 
+/usr/bin/make -f CMakeFiles/cmTC_d8111.dir/build.make CMakeFiles/cmTC_d8111.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d8111.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_d8111.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d8111
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8111.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_d8111.dir/CheckFunctionExists.c.o  -o cmTC_d8111 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_16da0/fast 
+/usr/bin/make -f CMakeFiles/cmTC_16da0.dir/build.make CMakeFiles/cmTC_16da0.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_16da0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_16da0.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_16da0
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16da0.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_16da0.dir/CheckFunctionExists.c.o  -o cmTC_16da0 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_06df6/fast 
+/usr/bin/make -f CMakeFiles/cmTC_06df6.dir/build.make CMakeFiles/cmTC_06df6.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_06df6.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_06df6.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_06df6
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06df6.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_06df6.dir/CheckFunctionExists.c.o  -o cmTC_06df6 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8f21d/fast 
+/usr/bin/make -f CMakeFiles/cmTC_8f21d.dir/build.make CMakeFiles/cmTC_8f21d.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f21d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_8f21d.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8f21d
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f21d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_8f21d.dir/CheckFunctionExists.c.o  -o cmTC_8f21d 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d0793/fast 
+/usr/bin/make -f CMakeFiles/cmTC_d0793.dir/build.make CMakeFiles/cmTC_d0793.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d0793.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_d0793.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d0793
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d0793.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_d0793.dir/CheckFunctionExists.c.o  -o cmTC_d0793 -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_83c7c/fast && /usr/bin/make -f CMakeFiles/cmTC_83c7c.dir/build.make CMakeFiles/cmTC_83c7c.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_83c7c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_83c7c.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_83c7c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_83c7c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_83c7c.dir/CheckFunctionExists.c.o  -o cmTC_83c7c /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1f020/fast && /usr/bin/make -f CMakeFiles/cmTC_1f020.dir/build.make CMakeFiles/cmTC_1f020.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1f020.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_1f020.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1f020
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1f020.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_1f020.dir/CheckFunctionExists.c.o  -o cmTC_1f020 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_95bc8/fast && /usr/bin/make -f CMakeFiles/cmTC_95bc8.dir/build.make CMakeFiles/cmTC_95bc8.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95bc8.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_95bc8.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_95bc8
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_95bc8.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_95bc8.dir/CheckFunctionExists.c.o  -o cmTC_95bc8 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0941b/fast && /usr/bin/make -f CMakeFiles/cmTC_0941b.dir/build.make CMakeFiles/cmTC_0941b.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0941b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_0941b.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0941b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0941b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_0941b.dir/CheckFunctionExists.c.o  -o cmTC_0941b 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2fc3d/fast && /usr/bin/make -f CMakeFiles/cmTC_2fc3d.dir/build.make CMakeFiles/cmTC_2fc3d.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2fc3d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_2fc3d.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2fc3d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2fc3d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_2fc3d.dir/CheckFunctionExists.c.o  -o cmTC_2fc3d 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_85d7d/fast && /usr/bin/make -f CMakeFiles/cmTC_85d7d.dir/build.make CMakeFiles/cmTC_85d7d.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_85d7d.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_85d7d.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_85d7d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_85d7d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_85d7d.dir/CheckFunctionExists.c.o  -o cmTC_85d7d -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5e37b/fast && /usr/bin/make -f CMakeFiles/cmTC_5e37b.dir/build.make CMakeFiles/cmTC_5e37b.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5e37b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_5e37b.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5e37b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5e37b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_5e37b.dir/CheckFunctionExists.c.o  -o cmTC_5e37b /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_55ca7/fast && /usr/bin/make -f CMakeFiles/cmTC_55ca7.dir/build.make CMakeFiles/cmTC_55ca7.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55ca7.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_55ca7.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_55ca7
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55ca7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_55ca7.dir/CheckFunctionExists.c.o  -o cmTC_55ca7 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5fc66/fast && /usr/bin/make -f CMakeFiles/cmTC_5fc66.dir/build.make CMakeFiles/cmTC_5fc66.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5fc66.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_5fc66.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5fc66
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5fc66.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_5fc66.dir/CheckFunctionExists.c.o  -o cmTC_5fc66 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_25dae/fast && /usr/bin/make -f CMakeFiles/cmTC_25dae.dir/build.make CMakeFiles/cmTC_25dae.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_25dae.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_25dae.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_25dae
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25dae.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_25dae.dir/CheckFunctionExists.c.o  -o cmTC_25dae 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3692a/fast && /usr/bin/make -f CMakeFiles/cmTC_3692a.dir/build.make CMakeFiles/cmTC_3692a.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3692a.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_3692a.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3692a
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3692a.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_3692a.dir/CheckFunctionExists.c.o  -o cmTC_3692a 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_711ca/fast && /usr/bin/make -f CMakeFiles/cmTC_711ca.dir/build.make CMakeFiles/cmTC_711ca.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_711ca.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_711ca.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_711ca
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_711ca.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_711ca.dir/CheckFunctionExists.c.o  -o cmTC_711ca -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9118b/fast 
+/usr/bin/make -f CMakeFiles/cmTC_9118b.dir/build.make CMakeFiles/cmTC_9118b.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9118b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_9118b.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_9118b
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9118b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_9118b.dir/CheckFunctionExists.c.o  -o cmTC_9118b /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a70c8/fast 
+/usr/bin/make -f CMakeFiles/cmTC_a70c8.dir/build.make CMakeFiles/cmTC_a70c8.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a70c8.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_a70c8.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a70c8
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a70c8.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_a70c8.dir/CheckFunctionExists.c.o  -o cmTC_a70c8 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cb371/fast 
+/usr/bin/make -f CMakeFiles/cmTC_cb371.dir/build.make CMakeFiles/cmTC_cb371.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb371.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_cb371.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cb371
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb371.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_cb371.dir/CheckFunctionExists.c.o  -o cmTC_cb371 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_30a2b/fast 
+/usr/bin/make -f CMakeFiles/cmTC_30a2b.dir/build.make CMakeFiles/cmTC_30a2b.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30a2b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_30a2b.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_30a2b
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30a2b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_30a2b.dir/CheckFunctionExists.c.o  -o cmTC_30a2b 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f28dc/fast 
+/usr/bin/make -f CMakeFiles/cmTC_f28dc.dir/build.make CMakeFiles/cmTC_f28dc.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f28dc.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_f28dc.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f28dc
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f28dc.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_f28dc.dir/CheckFunctionExists.c.o  -o cmTC_f28dc 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4a711/fast 
+/usr/bin/make -f CMakeFiles/cmTC_4a711.dir/build.make CMakeFiles/cmTC_4a711.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4a711.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_4a711.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_4a711
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4a711.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_4a711.dir/CheckFunctionExists.c.o  -o cmTC_4a711 -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_04dad/fast && /usr/bin/make -f CMakeFiles/cmTC_04dad.dir/build.make CMakeFiles/cmTC_04dad.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_04dad.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_04dad.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_04dad
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04dad.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_04dad.dir/CheckFunctionExists.c.o  -o cmTC_04dad /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3f1e0/fast && /usr/bin/make -f CMakeFiles/cmTC_3f1e0.dir/build.make CMakeFiles/cmTC_3f1e0.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3f1e0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_3f1e0.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_3f1e0
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3f1e0.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_3f1e0.dir/CheckFunctionExists.c.o  -o cmTC_3f1e0 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ca480/fast && /usr/bin/make -f CMakeFiles/cmTC_ca480.dir/build.make CMakeFiles/cmTC_ca480.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ca480.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_ca480.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ca480
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ca480.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_ca480.dir/CheckFunctionExists.c.o  -o cmTC_ca480 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_358c9/fast && /usr/bin/make -f CMakeFiles/cmTC_358c9.dir/build.make CMakeFiles/cmTC_358c9.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_358c9.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_358c9.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_358c9
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_358c9.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_358c9.dir/CheckFunctionExists.c.o  -o cmTC_358c9 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_78550/fast && /usr/bin/make -f CMakeFiles/cmTC_78550.dir/build.make CMakeFiles/cmTC_78550.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_78550.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_78550.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_78550
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_78550.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_78550.dir/CheckFunctionExists.c.o  -o cmTC_78550 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cb83f/fast && /usr/bin/make -f CMakeFiles/cmTC_cb83f.dir/build.make CMakeFiles/cmTC_cb83f.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb83f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_cb83f.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cb83f
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb83f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_cb83f.dir/CheckFunctionExists.c.o  -o cmTC_cb83f -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f6776/fast && /usr/bin/make -f CMakeFiles/cmTC_f6776.dir/build.make CMakeFiles/cmTC_f6776.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6776.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_f6776.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f6776
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f6776.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    -rdynamic CMakeFiles/cmTC_f6776.dir/CheckFunctionExists.c.o  -o cmTC_f6776 /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c2069/fast && /usr/bin/make -f CMakeFiles/cmTC_c2069.dir/build.make CMakeFiles/cmTC_c2069.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2069.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_c2069.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c2069
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c2069.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=gethostbyname    -rdynamic CMakeFiles/cmTC_c2069.dir/CheckFunctionExists.c.o  -o cmTC_c2069 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a5909/fast && /usr/bin/make -f CMakeFiles/cmTC_a5909.dir/build.make CMakeFiles/cmTC_a5909.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a5909.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_a5909.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a5909
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5909.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=connect    -rdynamic CMakeFiles/cmTC_a5909.dir/CheckFunctionExists.c.o  -o cmTC_a5909 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e2e60/fast && /usr/bin/make -f CMakeFiles/cmTC_e2e60.dir/build.make CMakeFiles/cmTC_e2e60.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2e60.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_e2e60.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e2e60
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2e60.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=remove    -rdynamic CMakeFiles/cmTC_e2e60.dir/CheckFunctionExists.c.o  -o cmTC_e2e60 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ed592/fast && /usr/bin/make -f CMakeFiles/cmTC_ed592.dir/build.make CMakeFiles/cmTC_ed592.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed592.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_ed592.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ed592
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed592.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=shmat    -rdynamic CMakeFiles/cmTC_ed592.dir/CheckFunctionExists.c.o  -o cmTC_ed592 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_71efd/fast && /usr/bin/make -f CMakeFiles/cmTC_71efd.dir/build.make CMakeFiles/cmTC_71efd.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_71efd.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_71efd.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_71efd
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_71efd.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    -rdynamic CMakeFiles/cmTC_71efd.dir/CheckFunctionExists.c.o  -o cmTC_71efd -lICE 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/assignment_2/119100002/mpi/bin/CMakeFiles/CMakeTmp'
+
+
+
