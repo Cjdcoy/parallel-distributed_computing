@@ -1,0 +1,196 @@
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_56c1f/fast 
+/usr/bin/make -f CMakeFiles/cmTC_56c1f.dir/build.make CMakeFiles/cmTC_56c1f.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56c1f.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_56c1f.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_56c1f
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56c1f.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_56c1f.dir/CheckIncludeFile.c.o  -o cmTC_56c1f 
+make[1]: Leaving directory '/home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8a244/fast 
+/usr/bin/make -f CMakeFiles/cmTC_8a244.dir/build.make CMakeFiles/cmTC_8a244.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8a244.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8a244.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8a244
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8a244.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_8a244.dir/CheckFunctionExists.c.o  -o cmTC_8a244 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHK/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7cac5/fast 
+/usr/bin/make -f CMakeFiles/cmTC_7cac5.dir/build.make CMakeFiles/cmTC_7cac5.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7cac5.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7cac5.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_7cac5
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7cac5.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_7cac5.dir/CheckIncludeFile.c.o  -o cmTC_7cac5 
+make[1]: Leaving directory '/home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a3258/fast 
+/usr/bin/make -f CMakeFiles/cmTC_a3258.dir/build.make CMakeFiles/cmTC_a3258.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a3258.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a3258.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a3258
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3258.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_a3258.dir/CheckFunctionExists.c.o  -o cmTC_a3258 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHK/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_30002/fast 
+/usr/bin/make -f CMakeFiles/cmTC_30002.dir/build.make CMakeFiles/cmTC_30002.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30002.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_30002.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_30002
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30002.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_30002.dir/CheckIncludeFile.c.o  -o cmTC_30002 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ac809/fast 
+/usr/bin/make -f CMakeFiles/cmTC_ac809.dir/build.make CMakeFiles/cmTC_ac809.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ac809.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_ac809.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ac809
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac809.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_ac809.dir/CheckFunctionExists.c.o  -o cmTC_ac809 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cb534/fast && /usr/bin/make -f CMakeFiles/cmTC_cb534.dir/build.make CMakeFiles/cmTC_cb534.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb534.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_cb534.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_cb534
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb534.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_cb534.dir/CheckIncludeFile.c.o  -o cmTC_cb534 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8c2db/fast && /usr/bin/make -f CMakeFiles/cmTC_8c2db.dir/build.make CMakeFiles/cmTC_8c2db.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c2db.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8c2db.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8c2db
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c2db.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_8c2db.dir/CheckFunctionExists.c.o  -o cmTC_8c2db -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b54c1/fast 
+/usr/bin/make -f CMakeFiles/cmTC_b54c1.dir/build.make CMakeFiles/cmTC_b54c1.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b54c1.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_b54c1.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_b54c1
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b54c1.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_b54c1.dir/CheckIncludeFile.c.o  -o cmTC_b54c1 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a7ea7/fast 
+/usr/bin/make -f CMakeFiles/cmTC_a7ea7.dir/build.make CMakeFiles/cmTC_a7ea7.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a7ea7.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a7ea7.dir/CheckFunctionExists.c.o   -c /home/cjdcoy/TOOLS/clion/bin/cmake/linux/share/cmake-3.14/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a7ea7
+/home/cjdcoy/TOOLS/clion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a7ea7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_a7ea7.dir/CheckFunctionExists.c.o  -o cmTC_a7ea7 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/1/bin/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c0012/fast && /usr/bin/make -f CMakeFiles/cmTC_c0012.dir/build.make CMakeFiles/cmTC_c0012.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c0012.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c0012.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_c0012
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c0012.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c0012.dir/CheckIncludeFile.c.o  -o cmTC_c0012 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e0745/fast && /usr/bin/make -f CMakeFiles/cmTC_e0745.dir/build.make CMakeFiles/cmTC_e0745.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e0745.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_e0745.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e0745
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0745.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_e0745.dir/CheckFunctionExists.c.o  -o cmTC_e0745 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/parallel/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c3acb/fast && /usr/bin/make -f CMakeFiles/cmTC_c3acb.dir/build.make CMakeFiles/cmTC_c3acb.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c3acb.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c3acb.dir/CheckIncludeFile.c.o   -c /home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_c3acb
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c3acb.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c3acb.dir/CheckIncludeFile.c.o  -o cmTC_c3acb 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_62da7/fast && /usr/bin/make -f CMakeFiles/cmTC_62da7.dir/build.make CMakeFiles/cmTC_62da7.dir/build
+make[1]: Entering directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_62da7.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_62da7.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.15/Modules/CheckFunctionExists.c
+Linking C executable cmTC_62da7
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62da7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_62da7.dir/CheckFunctionExists.c.o  -o cmTC_62da7 -lpthread 
+make[1]: Leaving directory '/home/cjdcoy/CUHKSZ/CSC4005/119100002/sequential/bin/CMakeFiles/CMakeTmp'
+
+
+
