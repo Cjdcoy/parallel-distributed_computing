@@ -1,1 +1,0 @@
-/usr/bin/c++   -o3 -g  -rdynamic CMakeFiles/heat_pthread.dir/src/main.cpp.o CMakeFiles/heat_pthread.dir/home/cjdcoy/CUHKSZ/CSC4005/119100002/programs/utils/timer/src/timer.cpp.o  -o ../bin/heat_pthread -lpthread -lSM -lICE -lX11 -lXext 

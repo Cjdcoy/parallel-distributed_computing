@@ -1,3 +1,0 @@
-/home/cjdcoy/CUHKSZ/CSC4005/119100002/programs/pthread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cjdcoy/CUHKSZ/CSC4005/119100002/programs/pthread/cmake-build-debug/CMakeFiles/heat_pthread.dir
-/home/cjdcoy/CUHKSZ/CSC4005/119100002/programs/pthread/cmake-build-debug/CMakeFiles/edit_cache.dir
