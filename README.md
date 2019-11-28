@@ -9,7 +9,7 @@ All of the programs are written in C/C++
 - [x] odd-even-sort
 - [x] mandelbrot-set
 - [x] nbody-simulation
-- [x] heat-simulation
+- [x] heat-dispertion
 - [x] performance analysis
 
 ## performance analysis
