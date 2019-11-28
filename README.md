@@ -4,7 +4,7 @@ This repository contains basic parallel problems using MPI, Pthread and OpenMP.<
 
 All of the programs are written in C/C++
 
-### Local
+### Features
 - [x] big-O-notation
 - [x] odd-even-sort
 - [x] mandelbrot-set
