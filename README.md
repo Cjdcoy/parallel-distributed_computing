@@ -2,7 +2,17 @@
 
 This repository contains basic parallel problems using MPI, Pthread and OpenMP.<br /><br />
 
-BigO notation c++/c examples<br />
+All of the programs are written in C/C++
 
-Each program contains a report with perfomance analysis.<br />
+### Local
+- [x] big-O-notation
+- [x] odd-even-sort
+- [x] mandelbrot-set
+- [x] nbody-simulation
+- [x] heat-simulation
+- [x] performance analysis
+
+## performance analysis
+Each program contains a report with perfomance analysis in its root folder.<br />
 Build and usage can be found in the reports.
+
