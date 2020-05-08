@@ -1,4 +1,4 @@
-# parallel-distributed_computing_practice
+# parallel-distributed_computing
 
 This repository contains basic parallel problems using MPI, Pthread and OpenMP.<br /><br />
 
